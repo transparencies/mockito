@@ -11,7 +11,7 @@ keywords = ["mock", "mocks", "http", "webmock", "webmocks"]
 categories = ["development-tools::testing", "web-programming"]
 exclude = ["/benchmarks.txt", "/docs/"]
 edition = "2021"
-rust-version = "1.70"
+rust-version = "1.85.0"
 
 [dependencies]
 assert-json-diff = "2.0"
